@@ -6,20 +6,19 @@ A versatile web scraper to extract data including texts, images, videos, and aud
 3. Scrapy
 4. Pycharm IDE
 # How to Run
-1. Install and configure python
-2. Install scrapy & selenium using the following command
+1. Install and configure python.
+2. Install scrapy & selenium using the following command:
 ```
-pip install scrapy
-pip install selenium
+pip install scrapy selenium
 ```
-4. Open terminal in folder `WebScrapping`
-5. Use the following command to run scray spider `spider1.py`
+3. Open terminal in folder `WebScrapping`.
+4. Use the following command to run scrapy spider `spider1.py`:
 ```
 scrapy crawl spider1
 ```
-6. Run `spider2.py` or `spider3.py` using command
+5. Run `spider2.py` or `spider3.py` using the following command:
 ```
 python spider2.py
 ```
-7. `spider2.py` & `spider3.py` are selenium spiders.
-8. Must change the path in code where scraped data will be sotred.
+6. `spider2.py` & `spider3.py` are selenium spiders.
+7. Must change the path in code where scraped data will be stored.
