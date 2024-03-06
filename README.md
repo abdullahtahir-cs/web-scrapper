@@ -1,10 +1,10 @@
 # Web Scrapping using python Scrapy & Selenium
 A versatile web scraper to extract data including texts, images, videos, and audios from different websites, including those with dynamic content loading.
 # Technologies
-1. Python
-2. Selenium
-3. Scrapy
-4. Pycharm IDE
+1. Python.
+2. Selenium.
+3. Scrapy.
+4. Pycharm IDE.
 # How to Run
 1. Install and configure python.
 2. Install scrapy & selenium using the following command:
